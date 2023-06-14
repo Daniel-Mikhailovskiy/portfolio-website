@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f1a10cb.css",
+    "main.js": "/static/js/main.7b7fc30f.js",
+    "static/media/avatar.svg": "/static/media/avatar.6acdd0f348322ba06d8275de5dd8ee85.svg",
+    "static/media/ma.png": "/static/media/ma.85d8f1a16a6d0503220c.png",
+    "static/media/bg-1.jpg": "/static/media/bg-1.3581ff115b99c7b13865.jpg",
+    "static/media/trvl.png": "/static/media/trvl.8352ec017a1ed19305a6.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/ap.png": "/static/media/ap.bff7ba24bb888459e48f.png",
+    "static/media/crpt.png": "/static/media/crpt.4748beb3dc5420a8cbe5.png",
+    "static/media/store.png": "/static/media/store.5ae3a7d950aba160266d.png",
+    "static/media/Daniel-Mikhailovskiy.pdf": "/static/media/Daniel-Mikhailovskiy.0831963dfe2198837c6e.pdf",
+    "static/media/lgBlack.png": "/static/media/lgBlack.827905cbffc00e84a715.png",
+    "static/media/lgWhite.png": "/static/media/lgWhite.81e78676d6712e2d4852.png",
+    "static/media/logo2.png": "/static/media/logo2.986c0d8d83bb791f54a3.png",
+    "static/media/analysis.png": "/static/media/analysis.73d4eaca07c54c100146.png",
+    "static/media/group.png": "/static/media/group.e37dead75688c61f2ec3.png",
+    "static/media/web-design.png": "/static/media/web-design.c558b5b0a726007e98cd.png",
+    "static/media/coding.png": "/static/media/coding.b426404e0977f46c68d0.png",
+    "static/media/analysis1.png": "/static/media/analysis1.ecfcd3b2fce19cb9f1ad.png",
+    "static/media/group2.png": "/static/media/group2.01595a4813f1911e6eb2.png",
+    "static/media/coding2.png": "/static/media/coding2.651692467fe759b722c3.png",
+    "index.html": "/index.html",
+    "main.6f1a10cb.css.map": "/static/css/main.6f1a10cb.css.map",
+    "main.7b7fc30f.js.map": "/static/js/main.7b7fc30f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1a10cb.css",
+    "static/js/main.7b7fc30f.js"
+  ]
+}
